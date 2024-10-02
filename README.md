@@ -5,3 +5,6 @@
 
 ### 참조
 - https://github.com/melonturtle/unreal-chess
+  - 해당 프로젝트를 참조
+  - 다만 기물의 움직임을 2차원 배열 형태로 관리
+  - 이는 체스엔진 API와 통신하기 위함
